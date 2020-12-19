@@ -1,5 +1,4 @@
-### Hi there 👋
-### Hello World! This is ABHISHEK TILWAR 👋
+## Hey! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
 
 <p align="left"> 
 	<img src="https://komarev.com/ghpvc/?username=AbhishekTilwar" alt="AbhishekTilwar" /> 
@@ -10,6 +9,7 @@ I am a student pursuing a Bachelor's degree in Computer Engineering 🎒 from Si
 
 ### About Me 🚀
 Here are some ideas to get you started:		
+<img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="400px" />
 - 📚 I’m currently started to learning Web Development.
 - 📈 Highly passionate to convert ideas into code 🤓.
 - 🔭 I’m currently involved in Competitive Programming.
@@ -19,9 +19,16 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[<img align="left" alt="LinkedIn" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />](https://www.linkedin.com/in/abhishek-tilwar/)
+[![Linkedin Badge](https://img.shields.io/badge/-abhishek-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishek-tilwar/)](https://www.linkedin.com/in/abhishek-tilwar/) 
+</br>
+[![Gmail Badge](https://img.shields.io/badge/-abhishektilwar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abhishektilwar@gmail.com)](mailto:abhishektilwar@gmail.com)
 [<img align="left" alt="Instagram" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111463.svg" />](https://www.instagram.com/abhishek_t.15/)
-[<img alt="Gmail" src="https://www.flaticon.com/svg/static/icons/svg/888/888853.svg" width="30px">](mailto:abhishektilwar@gmail.com)
+
+
+## 👯 Communities
+* President @ CodeChef SITS Chapter
+* Influncer @ Google Crowdsource
+
 <br>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AbhishekTilwar&show_icons=true" alt="AbhishekTilwar" /> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekTilwar&layout=compact" alt="AbhishekTilwar" /> </p>
