@@ -35,11 +35,6 @@ Here are some ideas to get you started:
 * President @ CodeChef SITS Chapter
 * Influncer @ Google Crowdsource
 <br>
-## Hello World!! ⭐️
-- 💬 Ask me about anything and everything !! 
-- 💬 Connect with me on <a href="https://www.linkedin.com/in/abhishek-tilwar/>Linkedin</a>
-- 📫 **Reach** me here => abhishektilwar@gmail.com 
-
 
 <br>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AbhishekTilwar&show_icons=true" alt="AbhishekTilwar" /> </p>
