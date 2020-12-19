@@ -5,7 +5,12 @@
 	<a href="https://github.com/AbhishekTilwar?tab=repositories"><img src="https://badges.pufler.dev/repos/AbhishekTilwar" alt="AbhishekTilwar" /> </a>
 </p>
 
-I am a student pursuing a Bachelor's degree in Computer Engineering 🎒 from Sinhgad Institute of Technology and Science who is obsessed with the idea of improving himself and wants a platform to grow and excel. 
+"Hi, Abhishek Tilwar is a Second year Computer Science Engineering Student@Pune. Member at GDG . with an interest in Artificial Intelligence, Machine Learning, Django, Android and Web Development. He loves to combine his passion with software development skills to build new products."
+
+Being a developer of various Technical Forums and Connecting platforms, I have been contributing *to make the youth of this world well versed with programming*.
+I am presently pursuing Btech in *Computer Engineering(CE)* From Pune University. 
+
+## '' Having an urge to learn till the last breath
 
 ### About Me 🚀
 Here are some ideas to get you started:		
@@ -19,15 +24,22 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[![Linkedin Badge](https://img.shields.io/badge/-abhishek-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishek-tilwar/)](https://www.linkedin.com/in/abhishek-tilwar/) 
+[![Linkedin Badge](https://img.shields.io/badge/-abhishektilwar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishek-tilwar/)](https://www.linkedin.com/in/abhishek-tilwar/) 
 </br>
 [![Gmail Badge](https://img.shields.io/badge/-abhishektilwar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abhishektilwar@gmail.com)](mailto:abhishektilwar@gmail.com)
-[<img align="left" alt="Instagram" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111463.svg" />](https://www.instagram.com/abhishek_t.15/)
-
+</br>
+[![Instagram Badge](https://img.shields.io/badge/-abhishek.15-magenta?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/abhishek_t.15/)](https://www.instagram.com/abhishek_t.15/) 
+</br>
 
 ## 👯 Communities
 * President @ CodeChef SITS Chapter
 * Influncer @ Google Crowdsource
+<br>
+## Hello World!! ⭐️
+- 💬 Ask me about anything and everything !! 
+- 💬 Connect with me on <a href="https://www.linkedin.com/in/abhishek-tilwar/>Linkedin</a>
+- 📫 **Reach** me here => abhishektilwar@gmail.com 
+
 
 <br>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AbhishekTilwar&show_icons=true" alt="AbhishekTilwar" /> </p>
