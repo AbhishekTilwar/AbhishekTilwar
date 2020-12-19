@@ -10,7 +10,7 @@
 Being a developer of various Technical Forums and Connecting platforms, I have been contributing *to make the youth of this world well versed with programming*.
 I am presently pursuing Btech in *Computer Engineering(CE)* From Pune University. 
 
-## '' Having an urge to learn till the last breath
+## '' Having an urge to learn till the last breath ''
 
 ### About Me 🚀
 Here are some ideas to get you started:		
