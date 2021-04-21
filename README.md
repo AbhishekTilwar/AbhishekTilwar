@@ -22,14 +22,22 @@ Here are some ideas to get you started:
 - 🎯 2020-21 Goles : 🌐 Web Development, 
 <!-- - 📝 See my [Resume]() to get more info. -->
 
-### Connect with me:
+<h2 align="center">Connect Me !! 🤝</h2> 
 
-[![Linkedin Badge](https://img.shields.io/badge/-abhishektilwar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishek-tilwar/)](https://www.linkedin.com/in/abhishek-tilwar/) 
-</br>
-[![Gmail Badge](https://img.shields.io/badge/-abhishektilwar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abhishektilwar@gmail.com)](mailto:abhishektilwar@gmail.com)
-</br>
-[![Instagram Badge](https://img.shields.io/badge/-abhishek.15-magenta?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/abhishek_t.15/)](https://www.instagram.com/abhishek_t.15/) 
-</br>
+<p align="center">
+<a href="https://github.com/AbhishekTilwar" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/abhishek-tilwar/" target="_blank">
+<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://twitter.com/AbhishekTilwar" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="mailto:abhishektilwar@gmail.com">
+<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</p> 
+ 
 
 ## 👯 Communities
 * President @ CodeChef SITS Chapter
@@ -40,6 +48,7 @@ Here are some ideas to get you started:
 <br>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AbhishekTilwar&show_icons=true" alt="AbhishekTilwar" /> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekTilwar&layout=compact" alt="AbhishekTilwar" /> </p>
+
 
 
 <p align="center">
