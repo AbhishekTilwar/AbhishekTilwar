@@ -5,7 +5,7 @@
 	<a href="https://github.com/AbhishekTilwar?tab=repositories"><img src="https://badges.pufler.dev/repos/AbhishekTilwar" alt="AbhishekTilwar" /> </a>
 </p>
 
-"Hi, Abhishek Tilwar is a Second year Computer Science Engineering Student@Pune. Member at GDG . with an interest in Artificial Intelligence, Machine Learning, Django, Android and Web Development. He loves to combine his passion with software development skills to build new products."
+"Hi, Abhishek Tilwar is a Second year Computer Science Engineering Student@Pune with an interest in Artificial Intelligence, Machine Learning, Django, Android and Web Development. He loves to combine his passion with software development skills to build new products."
 
 Being a developer of various Technical Forums and Connecting platforms, I have been contributing *to make the youth of this world well versed with programming*.
 I am presently pursuing Btech in *Computer Engineering(CE)* From Pune University. 
