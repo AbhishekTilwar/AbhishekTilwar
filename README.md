@@ -7,7 +7,7 @@
 
 "Hi, Abhishek Tilwar is a sophomore with an interest in Artificial Intelligence, Machine Learning, Django, Android and Web Development. He loves to combine his passion with software development skills to build new products."
 
-Being a developer of various Technical Forums and Connecting platforms, I have been contributing *to make the youth of this world well versed with programming*.
+Being passionate about technology, having a desire to learn and explore more makes me what I am. I like to do new things and expand my knowledge with any sort of opportunity which comes my way. I have been contributing *to make the students well versed with development & programming*.
 I am presently pursuing Btech in *Computer Engineering(CE)* From Pune University. 
 
 
