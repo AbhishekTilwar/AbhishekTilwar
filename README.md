@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 <br>
 
 <br>
-<p align="center"> <img src="https://onlylinks.pro/wp-content/uploads/2021/01/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13.gif" width="450px" /> </p>
+<p align="center"> <img src="https://onlylinks.pro/wp-content/uploads/2021/01/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13.gif" width="500px" /> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AbhishekTilwar&show_icons=true" alt="AbhishekTilwar" /> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekTilwar&layout=compact" alt="AbhishekTilwar" /> </p>
 
