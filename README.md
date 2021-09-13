@@ -13,7 +13,7 @@ I am presently pursuing Btech in *Computer Engineering(CE)* From Pune University
 
 ### About Me 🚀
 Here are some ideas to get you started:		
-<img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="400px" />
+<img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="395px" />
 - 📚 I’m currently started to learning Web Development.
 - 📈 Highly passionate to convert ideas into code 🤓.
 - 🔭 I’m currently involved in Competitive Programming.
@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 <br>
 
 <br>
-<p align="center"> <img src="https://onlylinks.pro/wp-content/uploads/2021/01/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13.gif" width="500px" /> </p>
+<p align="center"> <img src="https://onlylinks.pro/wp-content/uploads/2021/01/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13.gif" width="495px" /> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AbhishekTilwar&show_icons=true" alt="AbhishekTilwar" /> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekTilwar&layout=compact" alt="AbhishekTilwar" /> </p>
 
