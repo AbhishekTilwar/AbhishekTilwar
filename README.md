@@ -5,7 +5,7 @@
 	<a href="https://github.com/AbhishekTilwar?tab=repositories"><img src="https://badges.pufler.dev/repos/AbhishekTilwar" alt="AbhishekTilwar" /> </a>
 </p>
 
-"Hi, Abhishek Tilwar is a Pre-final year CSE Undergrad with an interest in Artificial Intelligence, Machine Learning, Django, Android and Web Development. He loves to combine his passion with software development skills to build new products."
+"Hi, Abhishek Tilwar is a Pre-final year CSE Undergrad with an interest in Cloud Computing, Machine Learning, Android and Web Development. He loves to combine his passion with software development skills to build new products."
 
 Being passionate about technology, having a desire to learn and explore more makes me what I am. I like to do new things and expand my knowledge with any sort of opportunity which comes my way. I have been contributing *to make the students well versed with development & programming*.
 I am presently pursuing Btech in *Computer Engineering(CE)* From Pune University. 
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <a href="mailto:abhishektilwar@gmail.com">
 <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </p> 
- 
+
 
 ## 👯 Communities
 * Google DSC Lead @Google Developers
@@ -46,9 +46,9 @@ Here are some ideas to get you started:
 <br>
 
 <br>
+<p align="center"> <img src="https://onlylinks.pro/wp-content/uploads/2021/01/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13.gif" width="450px" /> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AbhishekTilwar&show_icons=true" alt="AbhishekTilwar" /> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekTilwar&layout=compact" alt="AbhishekTilwar" /> </p>
-
 
 
 <p align="center">
