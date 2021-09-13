@@ -38,9 +38,11 @@ Here are some ideas to get you started:
  
 
 ## 👯 Communities
+* Google DSC Lead
+* Google Cloud Facilitator @ Google
 * President @ CodeChef SITS Chapter
 * Influncer @ Google Crowdsource
-* Google Cloud Facilitator @ Google
+
 <br>
 
 <br>
