@@ -42,7 +42,6 @@ Here are some ideas to get you started:
 * Google Cloud Facilitator @ Google Cloud
 * President @ CodeChef SITS Chapter
 * Influncer @ Google Crowdsource
-
 <br>
 
 <h1 align="center">Github Stats</h1>
