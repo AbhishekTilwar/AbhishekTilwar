@@ -1,4 +1,4 @@
-## Hey! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
+## Hey! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="3px">
 
 <p align="left"> 
 	<img src="https://komarev.com/ghpvc/?username=AbhishekTilwar" alt="AbhishekTilwar" /> 
@@ -13,7 +13,7 @@ I am presently pursuing Btech in *Computer Engineering(CE)* From Pune University
 
 ### About Me 🚀
 Here are some ideas to get you started:		
-<img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="395px" />
+<img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="30px" />
 - 📚 I’m currently started to learning Web Development.
 - 📈 Highly passionate to convert ideas into code 🤓.
 - 🔭 I’m currently involved in Competitive Programming.
