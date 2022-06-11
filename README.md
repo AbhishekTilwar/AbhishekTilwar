@@ -13,7 +13,7 @@ I am presently pursuing Btech in *Computer Engineering(CE)* From Pune University
 
 ### About Me 🚀
 Here are some ideas to get you started:		
-<img align="right" alt="GIF" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="370px" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="320px" />
 - 📚 I’m currently started to learning Web Development.
 - 📈 Highly passionate to convert ideas into code 🤓.
 - 🔭 I’m currently involved in Competitive Programming.
