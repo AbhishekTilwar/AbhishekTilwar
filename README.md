@@ -2,7 +2,6 @@
 
 <p align="left"> 
 	<img src="https://komarev.com/ghpvc/?username=AbhishekTilwar" alt="AbhishekTilwar" /> 
-	<a href="https://github.com/AbhishekTilwar?tab=repositories"><img src="https://badges.pufler.dev/repos/AbhishekTilwar" alt="AbhishekTilwar" /> </a>
 </p>
 
 "Hi, I'm *Abhishek Tilwar*, a pre-final year CSE Undergrad with an interest in Cloud Computing, Machine Learning, Android and Web Development. I loves to combine his passion with software development skills to build new products."
