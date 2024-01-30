@@ -4,7 +4,7 @@
 	<img src="https://komarev.com/ghpvc/?username=AbhishekTilwar" alt="AbhishekTilwar" /> 
 </p>
 
-"Hi, I'm *Abhishek Tilwar*, a pre-final year CSE Undergrad with an interest in Cloud Computing, Machine Learning, Android and Web Development. I loves to combine his passion with software development skills to build new products."
+"Hi, I'm *Abhishek Tilwar*, I've done my Bachelor's in Computer Engineering with an interest in Cloud Computing, Machine Learning, Android and Web Development. I loves to combine his passion with software development skills to build new products."
 
 Being passionate about technology, having a desire to learn and explore more makes me what I am. I like to do new things and expand my knowledge with any sort of opportunity which comes my way. I have been contributing *to make the students well versed with development & programming*.
 I am presently pursuing Btech in *Computer Engineering(CE)* From Pune University. 
@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 <img align="right" alt="SVG" src="https://user-images.githubusercontent.com/63442418/227835127-ff0951ce-0de4-4d73-bc3a-5288e86a84c0.svg" width="320px" />
 
 
-- 📚 I’m currently started to learning Web Development.
+- 📚 I’m currently started working on few new projects.
 - 📈 Highly passionate to convert ideas into code 🤓.
 - 🔭 I’m currently involved in Competitive Programming.
 - 🤓 I have worked on some android apps projects.
-- 🎯 2020-21 Goles : 🌐 Web Development, 
+- 🎯 2024-25 Goles : 🌐 Proect Management, 
 
 <h2 align="center">Connect Me !! 🤝</h2> 
 
